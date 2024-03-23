@@ -4,9 +4,9 @@ project:
   title:        "PILIPINAS"      # Project title
   author:       "Alexander Co Abad and Dino Dominic Ligutan"      # Your name
   discord:      "alexandercoabad_25756"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "7-seg Display for PILIPINAS"      # based from https://tinytapeout.com/runs/tt03/159/?fbclid=IwAR2JO7mgSKudnxRfstHDvjSZOMuqeQt30wtzHv7B9tvykWhDZ_B5dTEksGg  language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
+  description:  "7-seg Display for PILIPINASLASALLE"      # based from https://wokwi.com/projects/341279123277087315  
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
-  clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
+  clock_hz:     1       # Clock frequency in Hz (or 0 if not applicable)
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
