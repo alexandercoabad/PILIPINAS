@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-7-segment displays the text PILIPINAS
+7-segment displays the text PILIPINASLASALLE
 
 ## How to test
 
-based from https://tinytapeout.com/runs/tt03/159/?fbclid=IwAR2JO7mgSKudnxRfstHDvjSZOMuqeQt30wtzHv7B9tvykWhDZ_B5dTEksGg
+based from https://wokwi.com/projects/341279123277087315
 
 ## External hardware
 
