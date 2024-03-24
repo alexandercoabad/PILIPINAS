@@ -37,7 +37,7 @@ Setting the input pin 7 to HIGH allows for manual override of the BCD value. In 
 
 Default mode: Set the clock input to a low frequency such as 1 Hz to see the text transition per clock cycle.
 
-Manual mode: Set the input pin 7 to HIGH and toggle input pins 0-3. The character displayed for each input combination should be accordingto the table above.
+Manual mode: Set the input pin 7 to HIGH and toggle input pins 0-3. The character displayed for each input combination should be according to the table above.
 
 ## External hardware
 
