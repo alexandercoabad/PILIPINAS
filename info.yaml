@@ -14,14 +14,14 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "Clock"
-  ui[1]: "reset"
-  ui[2]: "none"
-  ui[3]: "dp toggle"
-  ui[4]: "BCD bit 3"
-  ui[5]: "BCD bit 2"
-  ui[6]: "BCD bit 1"
-  ui[7]: "BCD bit 0"
+  ui[0]: "BCD Bit 3 (A)"
+  ui[1]: "BCD Bit 2 (A)"
+  ui[2]: "BCD Bit 1 (A)"
+  ui[3]: "BCD Bit 0 (A)"
+  ui[4]: ""
+  ui[5]: ""
+  ui[6]: ""
+  ui[7]: "Manual Input Mode"
 
   # Outputs
   uo[0]: "segment a"
